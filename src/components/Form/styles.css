@@ -1,0 +1,23 @@
+.formu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+.formu input {
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid coral;
+}
+.nome {
+  width: 100%;
+  align-items: center;
+}
+.acomp {
+  align-items: center;
+  width: 100%;
+}
+.acomp label {
+  padding: 10px;
+}
